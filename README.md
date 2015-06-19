@@ -26,6 +26,13 @@ ArrayList update 10 million execution time: 4208ms. Last updated value: "1000000
 Stack update 10 million execution time: 494ms. Last updated value: "10000000"
 LinkedList update 10 million execution time: 520ms. Last updated value: "10000000"
 -------------------------------------------------
+ArrayList delete 1 million execution time: 46340ms. Current size: 500000
+Stack delete 1 million execution time: 47011ms. Current size: 500000
+LinkedList delete 1 million execution time: 587331ms. Current size: 500000
+-------------------------------------------------
+ArrayList delete 10 million execution time: 9902852ms. Current size: 5000000
+Stack delete 10 million execution time: 9643507ms. Current size: 5000000
+LinkedList delete 10 million execution time: ??ms. Current size: ??
 ```
 
 #### Maps
