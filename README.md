@@ -1,3 +1,11 @@
+#### Summary
+
+Lists: LinkedLists for creates, ArrayLists for reads, Stacks for updates and deletes. 
+
+Maps: HashMap for creates and deletes, LinkedHashMap for reads and updates.
+
+Sets: HasSet for creates updates, and deletes, LinkedHashSet for reads.
+
 #### Lists
 
 ```
