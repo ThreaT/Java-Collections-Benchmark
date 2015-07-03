@@ -1,10 +1,10 @@
 #### Summary
 
-Lists: LinkedLists for creates, ArrayLists for reads, Stacks for updates and deletes. 
+* Lists: LinkedLists for creates, ArrayLists for reads, Stacks for updates and deletes. 
 
-Maps: HashMap for creates and deletes, LinkedHashMap for reads and updates.
+* Maps: HashMap for creates and deletes, LinkedHashMap for reads and updates.
 
-Sets: HasSet for creates updates, and deletes, LinkedHashSet for reads.
+* Sets: HasSet for creates updates, and deletes, LinkedHashSet for reads.
 
 #### Lists
 
