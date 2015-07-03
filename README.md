@@ -2,7 +2,7 @@
 
 * **Lists**: LinkedLists for creates, ArrayLists for reads, Stacks for updates and deletes (never use LinkedList for deletes). 
 * **Maps**: HashMap for creates and deletes, LinkedHashMap for reads and updates.
-* **Sets**: HasSet for creates, updates and deletes, LinkedHashSet for reads.
+* **Sets**: HashSet for creates, updates and deletes, LinkedHashSet for reads.
 * **All**: LinkedList for creates, ArrayList for reads, LinkedHashMap for updates and HashMap for deletes
 
 #### Lists
